@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitHole", "RabbitHole\RabbitHole.csproj", "{74978F24-5636-400B-B091-CB9FFFE549EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonRabbitSerializer", "JsonRabbitSerializer\JsonRabbitSerializer.csproj", "{414C2A9C-B122-4D12-B999-85BEDAA957A6}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{81D8C7C4-90B6-4688-8DCE-C5E84253A3CF}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74978F24-5636-400B-B091-CB9FFFE549EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74978F24-5636-400B-B091-CB9FFFE549EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74978F24-5636-400B-B091-CB9FFFE549EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74978F24-5636-400B-B091-CB9FFFE549EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414C2A9C-B122-4D12-B999-85BEDAA957A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414C2A9C-B122-4D12-B999-85BEDAA957A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414C2A9C-B122-4D12-B999-85BEDAA957A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414C2A9C-B122-4D12-B999-85BEDAA957A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D8C7C4-90B6-4688-8DCE-C5E84253A3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D8C7C4-90B6-4688-8DCE-C5E84253A3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D8C7C4-90B6-4688-8DCE-C5E84253A3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D8C7C4-90B6-4688-8DCE-C5E84253A3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A1325A-A785-4CA3-B36B-88070288F668}
+	EndGlobalSection
+EndGlobal

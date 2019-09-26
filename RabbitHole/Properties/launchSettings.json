@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "RabbitHole": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONNECTIONSTRING_ACTIVITYLOG": "server=192.168.9.114;port=32770;user id=root;password=RobotMan;database=PICASO_ActivityLog;convert zero datetime=true",
+        "RABBITMQ_ENDPOINT": "127.0.0.1",
+        "RABBITMQ_PASSWORD": "iamill",
+        "RABBITMQ_USERNAME": "picasouser"
+      }
+    }
+  }
+}
